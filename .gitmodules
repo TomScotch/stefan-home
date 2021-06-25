@@ -1,0 +1,6 @@
+[submodule "themes/freshstart"]
+	path = themes/freshstart
+	url = https://github.com/rz3n/hugo-theme-freshstart.git
+[submodule "themes/persian-hugo"]
+	path = themes/persian-hugo
+	url = https://github.com/gethugothemes/persian-hugo
