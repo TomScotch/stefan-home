@@ -1,7 +1,5 @@
 ---
-title: "Search Results"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
+title: Such Ergebnisse
+description: this is meta description
+
 ---
